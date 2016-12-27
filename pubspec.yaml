@@ -1,0 +1,5 @@
+name: jsonx_set
+description: test
+version: 0.0.0
+dependencies:
+  jsonx: any
